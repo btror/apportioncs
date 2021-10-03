@@ -1,0 +1,14 @@
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\bin\Debug\netcoreapp3.1\Apportion.exe
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\bin\Debug\netcoreapp3.1\Apportion.deps.json
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\bin\Debug\netcoreapp3.1\Apportion.runtimeconfig.json
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\bin\Debug\netcoreapp3.1\Apportion.runtimeconfig.dev.json
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\bin\Debug\netcoreapp3.1\Apportion.dll
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\bin\Debug\netcoreapp3.1\Apportion.pdb
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\obj\Debug\netcoreapp3.1\Apportion.AssemblyInfoInputs.cache
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\obj\Debug\netcoreapp3.1\Apportion.AssemblyInfo.cs
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\obj\Debug\netcoreapp3.1\Apportion.csproj.CoreCompileInputs.cache
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\obj\Debug\netcoreapp3.1\Apportion.dll
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\obj\Debug\netcoreapp3.1\Apportion.pdb
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\obj\Debug\netcoreapp3.1\Apportion.genruntimeconfig.cache
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\obj\Debug\netcoreapp3.1\Apportion.csproj.AssemblyReference.cache
+C:\Users\brorie3\Desktop\dev\Apportion\Apportion\obj\Debug\netcoreapp3.1\Apportion.GeneratedMSBuildEditorConfig.editorconfig
