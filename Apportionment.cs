@@ -6,7 +6,7 @@ namespace Apportion
     {
         static void Main(string[] args)
         {
-            var method = Hamilton.Calculate(10, new int[] { 23, 34, 65, 77 });
+            var method = Jefferson.Calculate(10, new int[] { 23, 34, 65, 77 });
             Console.WriteLine("Initial fair shares: " + String.Join(",", method.Item1));
             Console.WriteLine("Final fair shares: " + String.Join(",", method.Item2));
             Console.WriteLine("Initial quotas: " + String.Join(",", method.Item3));
