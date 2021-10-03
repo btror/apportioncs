@@ -1,23 +1,12 @@
 ﻿using System;
-using System.Collections;
 using System.Linq;
 
 namespace Apportion
 {
-    class Apportion
+    public class Hamilton
     {
-        static void Main(string[] args)
-        {
-            var method = CalculateHamilton(10, new int[] { 23, 34, 65, 77 });
-            Console.WriteLine("Initial fair shares: " + String.Join(",", method.Item1));
-            Console.WriteLine("Final fair shares: " + String.Join(",", method.Item2));
-            Console.WriteLine("Initial quotas: " + String.Join(",", method.Item3));
-            Console.WriteLine("Final quotas: " + String.Join(",", method.Item4));
-            Console.WriteLine("Initial divisor: " + String.Join(",", method.Item5));
-            Console.WriteLine("Modified divisor: " + String.Join(",", method.Item6));
-        }
 
-        public static Tuple<int[], int[], decimal[], decimal[], decimal, decimal> CalculateHamilton(int seats, int[] populations)
+        public static Tuple<int[], int[], decimal[], decimal[], decimal, decimal> Calculate(int seats, int[] populations)
         {
             int states = populations.Length;
             decimal initialDivisor = populations.Sum() / (decimal)seats;
